@@ -1,0 +1,21 @@
+.game-container,
+.game-header,
+.game-main,
+.game-footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.game-header {
+}
+
+.game-main {
+}
+
+.game-main .game-choices {
+  display: flex;
+  flex-direction: column;
+}
+
+.game-footer {
+}
